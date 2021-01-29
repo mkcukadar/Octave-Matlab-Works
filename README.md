@@ -1,2 +1,4 @@
 # Octave-Matlab-Works
-Fiz 219 Bilgisayar programlama octave da yazılmış assignmentları içermektedir.
+
+while run the program. If any error occured it may coused by you try to open it in matlab.
+please try it by Octave
